@@ -1,0 +1,39 @@
+.dateTime{
+    
+    position: absolute;
+    bottom: 17.8%;
+    right: 55%;
+    font-size:4rem ;
+    display: flex;
+    padding: 15px;
+}
+.dateTimesolo{
+    justify-content: space-between;
+    padding: 10px 20px;
+    
+}
+.TextF{
+    position: absolute;
+    bottom: 35%;
+    right: 51.5%;
+    font-size:4rem ;
+    display: flex;
+    
+}
+.TextFsolo{
+    justify-content: space-between;
+    padding: 0px 20px;
+    
+}
+.mainButton{
+   
+    
+    position: absolute;
+    bottom: 13%;
+    right: 56.1%;
+    font-size:4rem ;
+    display: flex;
+    padding: 15px;
+    color: black;
+
+}

@@ -1,0 +1,56 @@
+.topbar{
+    width: 100%;
+    position: sticky;
+    height: 70px;
+    background-color: rgb(17, 17, 17);
+    opacity: 85%;
+    margin-bottom: -70px;
+    z-index: 5;
+}
+    
+
+.topbarWrapper{
+    height: 100%;
+    padding: 0px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    opacity: 0.75;
+}
+.logo{
+    font-weight: bold;
+    font-size: 30px;
+    color:rgb(252, 252, 252);
+    cursor: pointer;
+
+
+}
+.topbartext{
+    font-size: 18px;
+    color: rgb(248, 248, 248);
+}
+.btnlogin{
+    color: rgb(198, 16, 37);
+    font-weight: bold;
+    cursor: pointer;
+}
+.LoginField{
+    padding: 16px;
+
+}
+.PasswordField{
+    padding: 16px;
+
+}
+.LoginWindow{
+    width: 50%;
+    padding: 15px;
+    margin: 2px 0 22px 0;
+    border: none;
+
+}
+.ButtonField{
+    padding: 16px;
+    right: 51.5%;
+    display: flex;
+}

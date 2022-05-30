@@ -1,0 +1,13 @@
+.TextF{
+    position: absolute;
+    bottom: 35%;
+    right: 51.5%;
+    font-size:4rem ;
+    display: flex;
+    
+}
+.TextFsolo{
+    justify-content: space-between;
+    padding: 0px 20px;
+    
+}
